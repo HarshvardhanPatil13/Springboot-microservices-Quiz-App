@@ -5,9 +5,13 @@ This project is a microservices-based architecture for a Quiz Application, built
 ## Project Structure
 
 microservices/
+
 ├── api-gateway/ # Spring Cloud API Gateway
+
 ├── question-service # Question microservice
+
 ├── quiz-service/ # Quiz microservice
+
 ├── service-registry/ # Eureka Server
 
 
